@@ -8,7 +8,7 @@ Dans l'ensemble rien de neuf. Mauvais départ (Backbone = framework MVC... mouai
 
 Cela dit TDD intéressante.
 
-***Karma** a l'air de s'initialiser plus simplement (et proprement) qu'Istambul avec require.js et Grunt.
+**Karma** a l'air de s'initialiser plus simplement (et proprement) qu'Istambul avec require.js et Grunt.
 
 
 ## Multipage webapp
